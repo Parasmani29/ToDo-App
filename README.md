@@ -52,3 +52,6 @@ To run this ToDo App locally, follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+![image](https://github.com/Parasmani29/ToDo-App/assets/109508933/fe4f4f01-7727-4360-99b0-f7bbb6971d62)
+
